@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\menuButtons.cs" />
     <Compile Include="Assets\Scripts\menuMNG.cs" />
+    <Compile Include="Assets\Scripts\stats.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
